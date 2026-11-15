@@ -1,3 +1,29 @@
+# aimoneyhunter
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A curated guide to AI side hustles and ways to earn extra income with AI.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 副业赚钱项目大合集，教你用 AI 开展副业获得额外收益。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">
   AiMonneyHunter
   </h1>
